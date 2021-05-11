@@ -1,24 +1,11 @@
-### Hi there 👋
+# Hi there ✋
 
-<!--
-**r1ridwan/r1ridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# ⭕ Welcome To My Github Profile ⭕ 
+My Name is Md. Ridwan Ahmed. I have completed my graduation in Noakhali Science and Technology University at Biotechnology and Gentic Engineering department. 
+-----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Welcome To My Github
-My Name is Md. Ridwan Ahmed. I have completed my graduation in Noakhali Science and Technology University with Biotechnology and Gentic Engineering subject. 
-
-# My skills
+# 👉 My skills
 1. Bioinformatics 
 2. Database/NCBI
 3. Computer Aided Drug Design
@@ -31,7 +18,7 @@ My Name is Md. Ridwan Ahmed. I have completed my graduation in Noakhali Science 
 10. Ecommerce or Online Store with WooCommerce 
 11. Bootstrap4
 
-# Get in Touch
+# 💢 Get in Touch
 * LinkedIn: https://www.linkedin.com/in/md-ridwan-ahmed/
 * Twitter: https://twitter.com/MdRidwan141362
 * Facebook: https://www.facebook.com/ridwan.ahmed.39589
@@ -41,6 +28,7 @@ My Name is Md. Ridwan Ahmed. I have completed my graduation in Noakhali Science 
 * ORCID: https://orcid.org/0000-0002-5882-2926
 * Google Scholar: https://scholar.google.com/citations?user=VzYxXqwAAAAJ&hl=en
 * Researcherid: https://publons.com/researcher/4162573/md-ridone-ahmed/
-# For Web Developement Get In Touch With
+# 💢 For Web Developement Work Get In Touch With
 1. Fiverr: https://www.fiverr.com/r1codingmaster?up_rollout=true
 2. Upwork: https://www.upwork.com/freelancers/~0127c58fda9998b1fa
+3. Portfolio: https://mdridwanahmed.github.io/
