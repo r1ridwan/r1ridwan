@@ -9,14 +9,13 @@ My Name is Md. Ridwan Ahmed. I have completed my graduation in Noakhali Science 
 1. Bioinformatics 
 2. Database/NCBI
 3. Computer Aided Drug Design
-4. QSAR
 5. Molecular Docking
-6. Molecular Dynamics Simulations
 7. R programming language
 8. Web Developer
 9. WordPress Expert
 10. Ecommerce or Online Store with WooCommerce 
-11. Bootstrap4
+11. Bootstrap 4/5
+12. PSD to HTML/Bootstrap
 
 # 💢 Get in Touch
 * LinkedIn: https://www.linkedin.com/in/md-ridwan-ahmed/
