@@ -1,7 +1,7 @@
 # Hi There ✋
 
 ### ⭕ Welcome To My Github Profile ⭕ 
- My Name is Md. Ridone Ahmed. I have completed my B.Sc and M.Sc in the Department of Biotechnology and Genetic Engineering from Noakhali Science and Technology University, Nokahali-3814, Bangladesh. Currently working as a Research Officer at Projahnmo Research Foundation (PRF) (website: https://prfbd.org).
+ My Name is Md. Ridone Ahmed. I have completed my B.Sc and M.Sc in the Department of Biotechnology and Genetic Engineering from Noakhali Science and Technology University, Nokahali-3814, Bangladesh. 
  
 I have a strong commitment to the field of bioinformatics and genomics research, to work for a reputable organization with room for advancement and the desire to succeed through hard work and excellence. I have a wealth of knowledge in Bioinformatics, Molecular Biology, R and Python programming, as well as Unix/Linux.
 
